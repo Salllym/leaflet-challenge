@@ -6,7 +6,7 @@ https://salllym.github.io/leaflet-challenge-/
 ## Challenge Instructions
 This project utilizes leaflet, Javascript and D3 to visualize the earthquake data from the United States Geological Survey (USGS). The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
-## Level-1: Basic Visualization
+## Part-1: Basic Visualization
 ### Get the Data Set
 - The USGS provides earthquake data in a number of different formats, updated every 5 minutes
 - The "All Earthquakes from the Past 7 Days" data set was selected from the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page
@@ -21,7 +21,7 @@ Create a map using Leaflet that plots all of the earthquakes from the data set b
   <img src="https://github.com/Jiuhe2020/leaflet-challenge/blob/master/images/Level-1.png">
 </p>
 
-## Level-2: More Data
+## Part-2: More Data
 Plot a second data set on the map above to illustrate the relationship between tectonic plates and seismic activity.
 - Pull in [Tectonic Plates](https://github.com/fraxen/tectonicplates) data set
 - Visualize it along side the original set of data
